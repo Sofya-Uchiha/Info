@@ -13,7 +13,12 @@ Ctrl+X
 #### Отменить:
 Ctrl+Z
 
+<<<<<<< HEAD
 # Работа с Git
+=======
+
+# Работа с git
+>>>>>>> 2a23aef7160dc42146a0717f5b95df47fc8b67fe
 ### Скачать проект:
 ``` bash
 git clone <URL>
@@ -26,11 +31,18 @@ git add .
 ``` bash
 git commit -m "..."
 ```
+<<<<<<< HEAD
 ### Отправить в облако:
 ``` bash
 git push
 ```
 
+=======
+### Отправка в облако:
+``` bash
+git push
+```
+>>>>>>> 2a23aef7160dc42146a0717f5b95df47fc8b67fe
 # Ссылки:
 ### Git:
 [git-scm.com](https://git-scm.com/)
