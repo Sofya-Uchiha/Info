@@ -42,7 +42,11 @@ git push
 ``` bash
 git push
 ```
->>>>>>> 2a23aef7160dc42146a0717f5b95df47fc8b67fe
+### Принять изменения в облако:
+``` bash
+git pull
+```
+
 # Ссылки:
 ### Git:
 [git-scm.com](https://git-scm.com/)
