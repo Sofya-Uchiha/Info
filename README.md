@@ -13,12 +13,7 @@ Ctrl+X
 #### Отменить:
 Ctrl+Z
 
-<<<<<<< HEAD
-# Работа с Git
-=======
-
 # Работа с git
->>>>>>> 2a23aef7160dc42146a0717f5b95df47fc8b67fe
 ### Скачать проект:
 ``` bash
 git clone <URL>
@@ -31,13 +26,11 @@ git add .
 ``` bash
 git commit -m "..."
 ```
-<<<<<<< HEAD
 ### Отправить в облако:
 ``` bash
 git push
 ```
 
-=======
 ### Отправка в облако:
 ``` bash
 git push
@@ -52,3 +45,13 @@ git pull
 [git-scm.com](https://git-scm.com/)
 ### VS code:
 [code.visualstudio.com](https://code.visualstudio.com/)
+### Sublime Text 3:
+[sublimetext.com/3]](https://www.sublimetext.com/3)
+
+# Технология:
+### Метатология БЭМ:
+[bem.info/methodology/](https://ru.bem.info/methodology/)
+
+# Ресурсы:
+### Шрифты
+[fonts.google]{https://fonts.google.com/}
