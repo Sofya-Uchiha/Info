@@ -46,7 +46,7 @@ git pull
 ### VS code:
 [code.visualstudio.com](https://code.visualstudio.com/)
 ### Sublime Text 3:
-[sublimetext.com/3]](https://www.sublimetext.com/3)
+[sublimetext.com/3](https://www.sublimetext.com/3)
 
 # Технология:
 ### Метатология БЭМ:
@@ -54,4 +54,4 @@ git pull
 
 # Ресурсы:
 ### Шрифты
-[fonts.google]{https://fonts.google.com/}
+[fonts.google](https://fonts.google.com/)
