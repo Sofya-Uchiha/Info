@@ -57,4 +57,8 @@ git pull
 [fonts.google](https://fonts.google.com/)
 
 # информация:
+<<<<<<< HEAD
 https://html5book.ru/css3-animation/
+=======
+https://html5book.ru/css3-animation/
+>>>>>>> 716a57eac635a0c14ccd9e4f10562b702fa19160
