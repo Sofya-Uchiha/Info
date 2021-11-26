@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: black;
+    overflow: hidden;
+}
+
+.container{
+    position: relative;
+    width: 100%;
+    transform: rotate(-15deg);
+}
+
+.box{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    -webkit-box-reflect: below 1px linear-gradient(transparent, #0004);
+    animation: animetSdvig 1.5s ease-in-out infinite;
+}
+
+@keyframes animetSdvig{
+    0%{
+        transform: translateX(-200px);
+    }
+    100%{
+        transform: translateX(200px);
+    }
+}
+
+.cube{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background: #673ab7;
+    box-shadow: 0 0 5px #673ab7,
+    0 0 25px #673ab7,
+    0 0 50px #683ab7e5,
+    0 0 100px #683ab7cb,
+    0 0 200px #683ab7ab,
+    0 0 300px #683ab762;
+    animation: animet 1.5s ease-in-out infinite;
+    transform-origin: bottom left;
+}
+
+@keyframes animet {
+    0%{
+        transform: rotate(0deg);
+    }
+    60%{ 
+        transform: rotate(-90deg);
+    }
+    65%{
+        transform: rotate(-85deg);
+    }
+    70%{
+        transform: rotate(-90deg);
+    }
+    75%{
+        transform: rotate(-87.5deg);
+    }
+    80%{
+        transform: rotate(-90deg);
+    }
+    100%{
+        transform: rotate(-90deg);
+    }
+}
